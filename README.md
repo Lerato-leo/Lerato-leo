@@ -1,7 +1,7 @@
 <h1 align="center">Lerato Matamela</h1>
 
 <p align="center">
-  <strong>Data Engineer | AI Developer | Low-Code Solutions Architect</strong><br>
+  <strong> Junior Data Engineer | AI Developer | Low-Code Solutions Architect</strong><br>
   Building scalable data pipelines, intelligent systems, and production-ready solutions that drive business impact.
 </p>
 
