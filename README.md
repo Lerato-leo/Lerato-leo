@@ -1,8 +1,8 @@
 <h1 align="center">Lerato Matamela</h1>
 
 <p align="center">
-  <strong> Junior Data Engineer | AI Developer | Low-Code Solutions Architect</strong><br>
-  Building scalable data pipelines, intelligent systems, and production-ready solutions that drive business impact.
+  <strong> Data Engineer Associate | AI Developer | Low-Code Solutions Architect</strong><br>
+  Building scalable data pipelines, applied machine learning solutions, and automation-focused systems.
 </p>
 
 ---
@@ -17,7 +17,7 @@ I'm a final-year BSc IT student at Richfield Institute of Technology, specializi
 - **Low-Code Automation**: Building efficient business solutions with Power Apps and Power Automate
 - **Production Systems**: Creating reliable, observable, and maintainable systems at scale
 
-Currently part of **Project Y Engineering Cohort**, applying industry-aligned practices to real-world challenges.
+Currently part of **CAPACITI Data Engineering Cohort**, applying industry-aligned practices to real-world challenges.
 
 ---
 
@@ -92,29 +92,41 @@ AI-driven financial wellness platform with smart savings recommendations, goal p
 
 ---
 
-## 📚 Education & Certifications
+### 📚 Education & Certifications
 
-- **BSc Information Technology** | Richfield Institute of Technology (Year 2, 2024–Present)  
-  Specializing in Data Science, Machine Learning, and Cloud Computing
-  
-- **Project Y** | Data Engineer Stream (2025–Present)  
-  Industry-aligned bootcamp covering ETL, cloud architecture, DevOps, and AI integration
+- **Bachelor of Science in Information Technology**  
+  Richfield Graduate Institute of Technology  
+  Specialisation: Data Science & Machine Learning  
+  Final Year: 2026
 
-- **Google Data Analytics Professional Certificate** | Completed December 2023  
-  SQL, R programming, data visualization, and analytical problem-solving
+- **Google Data Analytics Professional Certificate**  
+  Covered data cleaning, SQL, data analysis, visualization, and analytical problem-solving.
 
-- **Certifications**: Agile with Atlassian Jira, Introduction to Generative AI, Version Control with Git
+- **IBM – Introduction to Data Engineering**  
+  Foundations of data engineering, ETL concepts, databases, and data pipelines.
+
+- **IBM – Python Project for Data Engineering**  
+  Applied Python for data extraction, transformation, and basic pipeline development.
+
+- **Additional Training & Tools**  
+  Agile with Atlassian Jira, Version Control with Git, Introduction to Generative AI
 
 ---
 
 ## 💡 Key Projects & Achievements
 
-✨ Designed and deployed **end-to-end data pipelines** handling multi-million row datasets  
-✨ Built **multi-cloud CI/CD solutions** with single pipeline deploying to AWS & Azure  
-✨ Integrated **generative AI** into production applications with prompt engineering  
-✨ Created **Power Apps solutions** automating business workflows for enterprise clients  
-✨ Optimized **SQL queries** reducing execution time by 70%+ on analytical workloads  
-✨ Contributed to **open-source projects** and maintained clean, documented codebases  
+✨ Built **end-to-end data analytics and machine learning projects**, covering data preparation, feature engineering, model training, and evaluation.
+
+✨ Developed **scalable ETL pipelines and automated workflows** as part of academic projects, Project Y training, and CAPACITI exposure.
+
+✨ Implemented **interactive data applications** using Streamlit and Power Apps to translate analytical results into user-friendly tools.
+
+✨ Gained hands-on experience with **cloud-based data and application deployments** using AWS and Azure in project environments.
+
+✨ Applied **machine learning techniques** to real-world datasets, including regression modeling and performance evaluation.
+
+✨ Actively developing **deep learning skills** using TensorFlow and PyTorch, with a focus on practical experimentation and learning.
+
 
 ---
 
