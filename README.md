@@ -1,149 +1,120 @@
 <h1 align="center">Lerato Matamela</h1>
 
 <p align="center">
-  <strong> Data Engineer Associate | AI Developer | Low-Code Solutions Architect</strong><br>
-  Building scalable data pipelines, applied machine learning solutions, and automation-focused systems.
+  <strong>Data Engineer Associate | BSc IT (Data Science & Machine Learning)</strong><br>
+  Building reliable data systems, applied machine learning solutions, and automation-driven workflows.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a final-year BSc IT student at Richfield Institute of Technology, specializing in Data Science and Machine Learning. My journey spans from Excel automation in high school to architecting end-to-end data engineering solutions. I'm passionate about:
+I am a final-year BSc IT student at Richfield Graduate Institute of Technology, specializing in Data Science and Machine Learning. My focus is on designing structured, scalable data systems that transform raw data into reliable, analytics-ready assets.
 
-- **Data Engineering**: Designing scalable ETL pipelines, optimizing SQL queries, and modeling data for analytics
-- **AI & ML Integration**: Training, fine-tuning, and deploying machine learning models with LLM integration
-- **Cloud Architecture**: Deploying containerized applications across AWS and Azure with DevOps best practices
-- **Low-Code Automation**: Building efficient business solutions with Power Apps and Power Automate
-- **Production Systems**: Creating reliable, observable, and maintainable systems at scale
+Currently part of the **CAPACITI Data Engineering Cohort**, where I apply industry-aligned data engineering practices to real-world scenarios.
 
-Currently part of **CAPACITI Data Engineering Cohort**, applying industry-aligned practices to real-world challenges.
+I am particularly interested in:
+
+- **Data Engineering** – ETL pipeline development, workflow orchestration, and data warehousing
+- **Data Modeling** – Star schema design, dimensional modeling, SCD Type 2 implementation
+- **Machine Learning** – Regression modeling, feature engineering, applied ML systems
+- **Workflow Automation** – Python scripting, Bash automation, Airflow DAG design
+- **Cloud Deployment** – Deploying containerized applications on AWS and Azure
 
 ---
 
-## 🛠 Tech Stack & Skills
+## 🛠 Technical Skills
 
 ### **Languages**
-<p>
-  <img title="Python" src="https://skillicons.dev/icons?i=python" />
-  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" />
-  <img title="HTML" src="https://skillicons.dev/icons?i=html" />
-  <img title="CSS" src="https://skillicons.dev/icons?i=css" />
-  <img title="C++" src="https://skillicons.dev/icons?i=cpp" />
-</p>
+Python • SQL • Bash • JavaScript • C++
 
-### **Data & Databases**
-<p>
-  <img title="SQL" src="https://skillicons.dev/icons?i=mysql" />
-  <img title="SQLite" src="https://skillicons.dev/icons?i=sqlite" />
-  <img title="Azure SQL" src="https://skillicons.dev/icons?i=azure" />
-</p>
+### **Data Engineering & Databases**
+PostgreSQL • MySQL • Azure SQL  
+ETL Pipeline Development • Data Validation • Data Quality Enforcement  
+Dimensional Modeling (Star Schema, SCD Type 2)  
+Apache Airflow • Data Warehousing Concepts  
 
-### **Tools & Platforms**
-<p>
-  <img title="Git" src="https://skillicons.dev/icons?i=git" />
-  <img title="GitHub" src="https://skillicons.dev/icons?i=github" />
-  <img title="VS Code" src="https://skillicons.dev/icons?i=vscode" />
-  <img title="Docker" src="https://skillicons.dev/icons?i=docker" />
-  <img title="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes" />
-</p>
+### **Data Science & Machine Learning**
+Pandas • NumPy • Scikit-learn  
+Feature Engineering • Model Evaluation • Regression Analysis  
+Jupyter Notebook • Streamlit  
 
 ### **Cloud & DevOps**
-<p>
-  <img title="AWS" src="https://skillicons.dev/icons?i=aws" />
-  <img title="Azure" src="https://skillicons.dev/icons?i=azure" />
-  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" />
-</p>
+AWS • Azure  
+Docker • CI/CD Pipelines  
+Git • GitHub • Linux  
 
-### **Core Competencies**
-- ✅ **Data Engineering & SQL** - ETL pipeline design, query optimization, schema modeling
-- ✅ **Python & Automation** - Data processing with Pandas, NumPy, workflow scripting
-- ✅ **AI & Machine Learning** - Model training, LLM integration, prompt engineering, RAG
-- ✅ **Cloud Architecture** - AWS, Azure, serverless computing, containerization
-- ✅ **DevOps & CI/CD** - Automated testing, multi-cloud deployment, infrastructure automation
-- ✅ **Low-Code Solutions** - Power Apps, Power Automate, business process automation
-- ✅ **Agile & Project Management** - Sprint-based development, team collaboration, Jira
+### **Analytics & Visualization**
+Power BI • Data Cleaning • Data Transformation • SQL Query Optimization  
 
 ---
 
 ## 📌 Featured Projects
 
-### **📊 Data Analytics & Automation**
+### 📊 Healthcare Insurance Cost Prediction  
+[GitHub Repository](https://github.com/Lerato-leo/Predicting-Healthcare-insurance-cost)
 
-**Healthcare Insurance Cost Prediction** | [GitHub](https://github.com/Lerato-leo/Predicting-Healthcare-insurance-cost)  
-Machine learning regression analysis predicting healthcare insurance premiums based on multi-feature datasets (age, BMI, smoking status, region). Demonstrates data exploration, feature engineering, model training, and evaluation techniques.  
-*Technologies: Python, Pandas, Scikit-learn, Jupyter Notebook*
+Developed a machine learning regression model to predict healthcare insurance costs using demographic and behavioral features.  
 
-**SyntaxNova Smart Data Manager** | [GitHub](https://github.com/Lerato-leo/SyntaxNova-Smart-Data-Manager-) | [Live Demo](https://apps.powerapps.com/play/e/4295446d-18f5-e1af-9c4b-fbee97cf4a5c/a/474aea6d-0dcb-4964-861a-061367935fc1)  
-End-to-end data platform integrating Azure SQL Database, Power BI dashboards, and Power Apps. Includes data cleaning, ETL pipeline design, schema optimization, and interactive analytics interface. Showcases production-grade data engineering from raw ingestion to actionable insights.  
-*Technologies: Python (Pandas, SQLAlchemy), Azure SQL, Power BI, Power Apps*
+- Achieved 83.8% R² using Gradient Boosting  
+- Conducted feature importance analysis identifying smoking status as the strongest cost driver  
+- Built an interactive Streamlit application for real-time predictions  
 
-### **☁️ Cloud & DevOps**
-
-**AI Portfolio Assistant** | [GitHub](https://github.com/Lerato-leo/multi-cloud-deployment-project) | [Live Demo](https://avengersai-fxaeeea5bsbjhqfh.southafricanorth-01.azurewebsites.net/)  
-Node.js web application demonstrating true multi-cloud deployment with unified CI/CD pipeline deploying to both AWS (Elastic Beanstalk) and Azure (App Service). Features AI-powered portfolio content generation using Gemini API, automated testing, and secure secret management.  
-*Technologies: Node.js, AWS, Azure, CI/CD, Gemini API, Docker*
-
-### **🤖 AI & Fintech**
-
-**AI Containerized Application** | [GitHub](https://github.com/Lerato-leo/Ai-containerized-application)  
-AI-driven financial wellness platform with smart savings recommendations, goal planning, and personalized financial advice. Demonstrates containerized deployment, microservices architecture, and practical AI integration.  
-*Technologies: Node.js, Docker, AI/ML APIs, Financial Modeling*
+**Technologies:** Python, Pandas, Scikit-learn, Streamlit  
 
 ---
 
-### 📚 Education & Certifications
+### 🗄 Finance Data Pipeline & Warehouse  
+[GitHub Repository](#)
 
-- **Bachelor of Science in Information Technology**  
-  Richfield Graduate Institute of Technology  
-  Specialisation: Data Science & Machine Learning  
-  Final Year: 2026
+Designed and implemented a finance-focused data warehouse simulating enterprise data workflows.
 
-- **Google Data Analytics Professional Certificate**  
-  Covered data cleaning, SQL, data analysis, visualization, and analytical problem-solving.
+- Built a Star Schema warehouse model in PostgreSQL  
+- Implemented automated ETL pipelines handling CSV, JSON, and Excel data  
+- Applied referential integrity validation and transformation logic  
+- Developing Apache Airflow DAGs for workflow scheduling and monitoring  
 
-- **IBM – Introduction to Data Engineering**  
-  Foundations of data engineering, ETL concepts, databases, and data pipelines.
-
-- **IBM – Python Project for Data Engineering**  
-  Applied Python for data extraction, transformation, and basic pipeline development.
-
-- **Additional Training & Tools**  
-  Agile with Atlassian Jira, Version Control with Git, Introduction to Generative AI
+**Technologies:** Python, PostgreSQL, Bash, Apache Airflow  
 
 ---
 
-## 💡 Key Projects & Achievements
+### ☁️ Multi-Cloud AI Portfolio Assistant  
+[GitHub Repository](https://github.com/Lerato-leo/multi-cloud-deployment-project)
 
-✨ Built **end-to-end data analytics and machine learning projects**, covering data preparation, feature engineering, model training, and evaluation.
+Deployed a containerized Node.js application across AWS and Azure using CI/CD automation.
 
-✨ Developed **scalable ETL pipelines and automated workflows** as part of academic projects, Project Y training, and CAPACITI exposure.
+- Implemented automated testing and secure secret management  
+- Integrated AI API for intelligent portfolio content generation  
+- Demonstrated multi-cloud deployment strategy  
 
-✨ Implemented **interactive data applications** using Streamlit and Power Apps to translate analytical results into user-friendly tools.
+**Technologies:** Node.js, Docker, AWS, Azure, CI/CD  
 
-✨ Gained hands-on experience with **cloud-based data and application deployments** using AWS and Azure in project environments.
+---
 
-✨ Applied **machine learning techniques** to real-world datasets, including regression modeling and performance evaluation.
+## 📚 Education & Certifications
 
-✨ Actively developing **deep learning skills** using TensorFlow and PyTorch, with a focus on practical experimentation and learning.
+**Bachelor of Science in Information Technology**  
+Richfield Graduate Institute of Technology  
+Specialisation: Data Science & Machine Learning  
+Expected Completion: 2026  
 
+**Certifications:**
+- Google Data Analytics Professional Certificate  
+- IBM – Introduction to Data Engineering  
+- IBM – Python Project for Data Engineering  
+- AWS – Generative AI with Large Language Models  
 
 ---
 
 ## 🌐 Connect With Me
 
-- **Portfolio Website**: [personal-portfolio-nine-iota-32.vercel.app](https://personal-portfolio-nine-iota-32.vercel.app/)
-- **Email**: leratomatamela1@gmail.com
-- **LinkedIn**: [linkedin.com/in/lerato-matamela](https://www.linkedin.com/in/lerato-matamela-b7697118a/)
-- **Location**: Johannesburg, Gauteng, South Africa
+- **Portfolio:** https://personal-portfolio-nine-iota-32.vercel.app  
+- **Email:** leratomatamela1@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/lerato-matamela-b7697118a/  
+- **Location:** Johannesburg, South Africa  
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lerato-leo&color=blueviolet" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <strong>Always learning. Always building. Always evolving. 🚀</strong><br>
-  <em>Transforming data into insights, insights into impact.</em>
+  <strong>Focused on building structured, reliable, and scalable data systems.</strong>
 </p>
